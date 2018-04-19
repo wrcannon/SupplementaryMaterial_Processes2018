@@ -1,7 +1,7 @@
 # Supplementary Material Processes-2018
 Supplementary Material for Processes article, 2018
 
-The simulation data used in the manuscript are in the directory simulation_data. The supplementary notebooks are as follows:
+The simulation data used in the manuscript are in the file simulation_data.tar.gz. The supplementary notebooks are as follows:
 
 Supplementary Notebook_S1: neurospora_no_regulation-supplementary.ipynb 
 
